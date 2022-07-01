@@ -1,0 +1,158 @@
+.desctop {
+    width: 1440px;
+    height: 3750px;
+    background-color: rgba(242, 120, 92, 0.7);
+
+}
+.headerlogo {
+    display: flex;
+    gap: 5px;
+}
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 42px;
+    position: absolute;
+    width: 527px;
+    height: 21px;
+    left: 494px;
+    top: 35px;
+}
+
+.body{
+    display: flex;
+}
+.header{
+    width: 1440px;
+    height: 90px;
+    mix-blend-mode: color-burn;
+    position: absolute;
+    background-color: rgba(242, 120, 92, 0.7);
+    box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
+
+}
+
+.PlanYourTrip {
+width: 105px;
+height: 21px;
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+color: #FFFFFF;
+flex: none;
+order: 1;
+flex-grow: 0;
+font-family: Red Hat Text;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration: none;
+
+}
+
+.Howitworks {
+width: 98px;
+height: 21px;
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+text-decoration: none;
+}
+
+.Destinations {
+width: 95px;
+height: 21px;
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+color: #FFFFFF;
+flex: none;
+order: 2;
+flex-grow: 0;
+text-decoration: none;
+}
+
+.TravelStories {
+width: 103px;
+height: 21px;
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+color: #FFFFFF;
+flex: none;
+order: 3;
+flex-grow: 0;
+text-decoration: none;
+}
+
+.logo-img {
+    position: absolute;
+    width: 180px;
+    height: 31px;
+    left: 156px;
+    top: 25px;
+    
+    font-family: 'Magra';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #FFFFFF;
+}
+
+
+
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.box {
+    display: flex;
+    position: absolute;
+    background: rgba(242, 120, 92, 0.7);
+    box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
+    font-style: normal;
+    font-family: 'Red Hat Text';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ffffff;
+}
+.body {
+    margin: 0;
+    font-family: "Open Sans",Arial,sans-serif ;
+    min-width: 280px;
+}
+
+.p {
+position: absolute;
+width: 1440px;
+height: 765px;
+left: 0px;
+top: 0px;
+}
+
+.main {
+    background: #E5E5E5
+}
